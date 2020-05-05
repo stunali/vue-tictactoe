@@ -1,6 +1,6 @@
 # tic-tac-toe
 
-> vue training
+> vue training source:https://levelup.gitconnected.com/building-tic-tac-toe-in-vue-js-57a23822313d
 
 ## Build Setup
 
